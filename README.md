@@ -99,3 +99,7 @@ The code is structured as follows:
 - **Game Logic Function:** The `determine_winner()` function determines the winner based on the choices made.
 - **Main Game Loop:** The `play_game()` function orchestrates the flow of the game, allowing the user to play multiple rounds.
 
+  ## output
+  ![image](https://github.com/Darkxivyx3/Python-Beginner-Game/assets/122298615/afa4504b-e5e3-45f5-8540-c94d12d6165a)
+
+
