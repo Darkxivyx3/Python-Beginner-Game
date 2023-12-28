@@ -48,3 +48,51 @@ The code is structured as follows:
 - **User Interaction Functions:** Functions responsible for interacting with the user, such as `get_player_name()`, `greet_player()`, and `ask_to_play_game()`.
 - **Game Logic Function:** The core of the game is implemented in the `play_guessing_game()` function, handling the random number generation, user guesses, and feedback.
 
+
+# (2)Rock, Paper, Scissors Game
+
+Welcome to the Rock, Paper, Scissors Game implemented in Python. This project allows users to play the classic Rock, Paper, Scissors game against the computer.
+
+## Features
+
+- **User Interaction:** The game prompts the user to choose between Rock, Paper, and Scissors.
+- **Random Computer Choice:** The computer randomly selects one of the options.
+- **Result Determination:** The game determines the winner based on the user's choice and the computer's choice.
+- **Play Again Option:** After each round, the user can choose to play the game again or exit.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+
+### How to Run
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/rock-paper-scissors.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd rock-paper-scissors
+   ```
+
+3. Run the Python script:
+
+   ```bash
+   python rock_paper_scissors.py
+   ```
+
+4. Follow the on-screen prompts to play the game.
+
+## Code Structure
+
+The code is structured as follows:
+
+- **User Interaction Functions:** Functions such as `get_user_choice()` and `get_computer_choice()` handle user input and generate the computer's choice.
+- **Game Logic Function:** The `determine_winner()` function determines the winner based on the choices made.
+- **Main Game Loop:** The `play_game()` function orchestrates the flow of the game, allowing the user to play multiple rounds.
+
