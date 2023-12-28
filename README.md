@@ -48,6 +48,9 @@ The code is structured as follows:
 - **User Interaction Functions:** Functions responsible for interacting with the user, such as `get_player_name()`, `greet_player()`, and `ask_to_play_game()`.
 - **Game Logic Function:** The core of the game is implemented in the `play_guessing_game()` function, handling the random number generation, user guesses, and feedback.
 
+## Output
+![image](https://github.com/Darkxivyx3/Python-Beginner-Game/assets/122298615/8bdb091d-9114-496a-ad0f-9f597a4a4b52)
+
 
 # (2)Rock, Paper, Scissors Game
 
